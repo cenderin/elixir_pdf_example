@@ -4,6 +4,8 @@ Basic test to show pdf generation with elixir-pdf-generator and sneeze librarys
 
 
 # Commands
+`brew install Caskroom/cask/wkhtmltopdf`
+
 `mix deps.get`
 
 `iex -S mix`
